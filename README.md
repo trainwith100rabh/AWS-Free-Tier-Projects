@@ -38,11 +38,12 @@ It serves simple `HTML` and `CSS` files through the **Apache Web Server** runnin
 ---
 
 ## 📁 Project Structure
-
+```text
 AWS-EC2-Static-Website/
 ├── index.html # Main landing page
 ├── style.css # AWS-themed styling
 └── README.md # Project documentation
+```
 
 ---
 
